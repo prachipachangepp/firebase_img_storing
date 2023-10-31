@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484526635709",
+    "project_id": "imagestoringapp",
+    "storage_bucket": "imagestoringapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484526635709:android:d1da65795bd4a4f76755d4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_img_storing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484526635709-006abip4sftggoub5g7drq8001fcvq8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBJfKtRbw6nAhnjf-b7HmRvUbtSgoNi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484526635709-006abip4sftggoub5g7drq8001fcvq8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
